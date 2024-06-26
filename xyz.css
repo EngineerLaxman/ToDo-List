@@ -1,0 +1,27 @@
+  .ta {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    background-color: #dba2;
+  }
+
+  .ab {
+    float: left;
+  }
+
+  .ab a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 27px;
+    font-style: Bold;
+    font-family: arial;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  .ab a:hover {
+    background-color: #9c8168;
+  }
