@@ -1,0 +1,46 @@
+h1 {
+   color: #367096;
+   font-family: Charcoal;
+   font-size: 32px;
+}
+
+form {
+   margin-left: 50px;
+   margin-top: 50px;
+   width: 200px;
+   height: 30px;
+   border: 3;
+   color: #887;
+   font-family: monospace;
+   size: 40px;
+   font-size: 20px;
+}
+
+h3 {
+   font-family: amet;
+   color: #423101;
+   margin-left: 20px;
+   font-size: 25px;
+}
+
+ul {
+   font-family: monospace;
+   color: #897641;
+   margin-left: 50px;
+   font-size: 20px;
+}
+
+button {
+   margin-top: 250px;
+   margin-left: 130px;
+   width: 150px;
+   height: 30px;
+   font-size: 20px;
+   font-family: Skia;
+   border-radius: 10px;
+}
+
+html {
+   background-color: #dba2;
+   background-image: url('background.jpg')
+}
