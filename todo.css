@@ -1,0 +1,77 @@
+  h2 {
+    color: #341180;
+    font-family: Vardana;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  html {
+    background: #dba2;
+    background-image: url('background.jpg')
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  .todo-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    margin-top: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: #dba2;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  li:hover {
+    background-color: #dba2;
+  }
+
+  .add-todo {
+    margin-top: 50px;
+  }
+
+  #new-item {
+    width: 250px;
+    height: 27px;
+    color: #787621;
+  }
+
+  button {
+    height: 30px;
+    width: 80px;
+    color: #436752;
+    background-color: #dba2;
+  }
+
+  .ba {
+    height: 30px;
+    width: 80px;
+    color: #436752;
+    margin-top: 5px;
+    background-color: #dba2;
+  }
+
+  .but {
+    background-color: #dba2;
+    padding: 24px;
+    font-family: inherit;
+    color: #000000;
+    border-color: #dba2;
+
+
+  }
