@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saved Entries</title>
+</head>
+<body>
+    <h1>Saved Entries</h1>
+    <div id="entries">
+    </div>
+    <script>
+       const savedEntries = JSON.parse(sessionStorage.getItem('entries')) || [];
+        const entriesContainer = document.getElementById('entries');
+        savedEntries.forEach(entry => {
+            const entryElement = document.createElement('p');
+            entryElement.textContent = entry;
+            entriesContainer.appendChild(entryElement);
+        });
+    </script>
+</body>
+</html>
