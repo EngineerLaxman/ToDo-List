@@ -1,0 +1,41 @@
+html {
+  background-color: #dba2;
+  background-image: url('images.jpeg');
+}
+
+#boxes {
+  align-content: "center";
+  width: 100px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  padding-left: 150px;
+  margin-top: 0px;
+  height: 50px;
+  size: 50px;
+}
+
+button {
+  font-family: Times New Roman;
+  font-size: 20px;
+  width: 200px;
+  align-content: center;
+  margin-left: 20px;
+  height: 60px;
+  margin-top: 50px;
+  color: #000000;
+  background-color: #dba2;
+}
+
+h2 {
+  color: #467665;
+  margin-left: 5px;
+  font-size: 18px;
+  font-style: bold;
+  margin-top: 50px;
+  font-family: courier new;
+}
+
+a {
+  margin-top: 0px;
+  font-family: courier new;
+}
