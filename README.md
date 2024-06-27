@@ -18,10 +18,11 @@ Open the index.html file in your web browser to view the application.
 
 Project Structure
 
-todo-list
-├── index.html
-├── style.css
-└── script.js
+
+index.html
+style.css
+script.js
+
 index.html: The main HTML file.
 style.css: The CSS file for styling.
 script.js: The JavaScript file for functionality.
