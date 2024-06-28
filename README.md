@@ -1,10 +1,17 @@
-#Todo List Website (Frontend)
+Name: Laxman Basaveshwar Gaidhankar
+Company: CODTECH IT SOLUTIONS
+ID: CT4WD2873
+Domain: Web Development
+Duration: June to July 2024 (4 Weeks) 
+Mentor: Neela Santosh Kumar
 
-#Overview-
+Todo List Website (Frontend)
+
+Overview
 
 This is a simple Todo List website frontend built with basic HTML, CSS, and JavaScript. Users can add, edit, and delete tasks.
 
-#Features-
+Features
 1.Add new tasks
 2.Edit existing tasks
 3.Delete tasks
@@ -12,30 +19,25 @@ This is a simple Todo List website frontend built with basic HTML, CSS, and Java
 5.Workout Plan
 6.Diet Plan
 
-#Prerequisites
-You need a web browser to view and interact with the Todo List website.
-Open the index.html file in your web browser to view the application.
+Prerequisites
 
-#Project Structure
-index.html
-style.css
-script.js
+You need a web browser to view and interact with the Todo List website. Open the index.html file in your web browser to view the application.
 
-index.html: The main HTML file.
-style.css: The CSS file for styling.
-script.js: The JavaScript file for functionality.
+Usage
 
-#Usage
 Open the index.html file in a web browser.
+
 Use the input box to add new tasks.
-Open the workout.html file in a web browser.
-check the workout plan as shown 
-Open the diet.html file in a web browser.
-it will display the diet plan
-check the notes 
+
+To view the workout plan, open the workout.html file in a web browser.
+
+To view the diet plan, open the diet.html file in a web browser.
+
+Check the notes.
+
 Use the delete button to remove tasks.
 
-Contact
-Laxman Gaidhankar 
-laxmangaidhankar44@gmail.com
+Contact details
 
+Laxman Gaidhankar
+laxmangaidhankar44@gmail.com
