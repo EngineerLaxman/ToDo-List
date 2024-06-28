@@ -1,8 +1,13 @@
 Name: Laxman Basaveshwar Gaidhankar
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT4WD2873
+
 Domain: Web Development
+
 Duration: June to July 2024 (4 Weeks) 
+
 Mentor: Neela Santosh Kumar
 
 Todo List Website (Frontend)
